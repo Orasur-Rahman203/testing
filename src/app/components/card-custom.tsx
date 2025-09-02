@@ -1,7 +1,9 @@
 import React from "react";
 
 const CardCustom = () => {
-  return <div>card</div>;
+  return <div>
+    card cumtom 
+  </div>;
 };
 
 export default CardCustom;

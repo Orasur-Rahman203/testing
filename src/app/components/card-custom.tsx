@@ -1,8 +1,8 @@
 import React from "react";
 
 const CardCustom = () => {
-  return <div>
-    card cumtom 
+  return <div className="text-black">
+    card cumtom  
   </div>;
 };
 
